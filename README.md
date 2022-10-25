@@ -3,3 +3,4 @@
 
  Una app Flutter de realizacion de tareas inspirada en Pokemon Go para Halloween. Incluye iconos personalizados, una pantalla splash y mas.
 
+ Inspiration: shorturl.at/diqSU
